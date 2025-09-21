@@ -74,4 +74,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/RICHARD44720/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
+## Math
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/RICHARD44720/Leetcode/tree/master/0069-sqrtx) |
+## Binary Search
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/RICHARD44720/Leetcode/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
