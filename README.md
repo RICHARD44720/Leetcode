@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/RICHARD44720/Leetcode/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/RICHARD44720/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/RICHARD44720/Leetcode/tree/master/0143-reorder-list) |
+| [0151-reverse-words-in-a-string](https://github.com/RICHARD44720/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/RICHARD44720/Leetcode/tree/master/0165-compare-version-numbers) |
 | [0611-valid-triangle-number](https://github.com/RICHARD44720/Leetcode/tree/master/0611-valid-triangle-number) |
 ## Array
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/RICHARD44720/Leetcode/tree/master/0139-word-break) |
+| [0151-reverse-words-in-a-string](https://github.com/RICHARD44720/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/RICHARD44720/Leetcode/tree/master/0165-compare-version-numbers) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/RICHARD44720/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Math
