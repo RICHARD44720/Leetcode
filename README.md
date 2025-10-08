@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/RICHARD44720/Leetcode/tree/master/0139-word-break) |
 | [0169-majority-element](https://github.com/RICHARD44720/Leetcode/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/RICHARD44720/Leetcode/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/RICHARD44720/Leetcode/tree/master/0200-number-of-islands) |
 | [0322-coin-change](https://github.com/RICHARD44720/Leetcode/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/RICHARD44720/Leetcode/tree/master/0518-coin-change-ii) |
 | [0611-valid-triangle-number](https://github.com/RICHARD44720/Leetcode/tree/master/0611-valid-triangle-number) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/RICHARD44720/Leetcode/tree/master/0100-same-tree) |
+| [0200-number-of-islands](https://github.com/RICHARD44720/Leetcode/tree/master/0200-number-of-islands) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/RICHARD44720/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Binary Tree
 |  |
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/RICHARD44720/Leetcode/tree/master/0100-same-tree) |
+| [0200-number-of-islands](https://github.com/RICHARD44720/Leetcode/tree/master/0200-number-of-islands) |
 | [0322-coin-change](https://github.com/RICHARD44720/Leetcode/tree/master/0322-coin-change) |
 ## Dynamic Programming
 |  |
@@ -139,4 +142,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0137-single-number-ii](https://github.com/RICHARD44720/Leetcode/tree/master/0137-single-number-ii) |
+## Union Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/RICHARD44720/Leetcode/tree/master/0200-number-of-islands) |
+## Matrix
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/RICHARD44720/Leetcode/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
