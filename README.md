@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/RICHARD44720/Leetcode/tree/master/0016-3sum-closest) |
 | [0137-single-number-ii](https://github.com/RICHARD44720/Leetcode/tree/master/0137-single-number-ii) |
 | [0139-word-break](https://github.com/RICHARD44720/Leetcode/tree/master/0139-word-break) |
+| [0162-find-peak-element](https://github.com/RICHARD44720/Leetcode/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/RICHARD44720/Leetcode/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/RICHARD44720/Leetcode/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/RICHARD44720/Leetcode/tree/master/0200-number-of-islands) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/RICHARD44720/Leetcode/tree/master/0069-sqrtx) |
+| [0162-find-peak-element](https://github.com/RICHARD44720/Leetcode/tree/master/0162-find-peak-element) |
 | [0611-valid-triangle-number](https://github.com/RICHARD44720/Leetcode/tree/master/0611-valid-triangle-number) |
 ## Breadth-First Search
 |  |
