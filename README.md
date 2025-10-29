@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0006-zigzag-conversion](https://github.com/RICHARD44720/Leetcode/tree/master/0006-zigzag-conversion) |
 | [0038-count-and-say](https://github.com/RICHARD44720/Leetcode/tree/master/0038-count-and-say) |
 | [0139-word-break](https://github.com/RICHARD44720/Leetcode/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/RICHARD44720/Leetcode/tree/master/0151-reverse-words-in-a-string) |
