@@ -9,9 +9,9 @@ class Solution {
             for (int col = 1; col < n; col++) {
                 currentRow[col] = currentRow[col - 1] + aboveRow[col];
             }
-            aboveRow = currentRow;
+            aboveRow =currentRow;
         }
 
-        return aboveRow[n - 1];        
+        return  aboveRow[n - 1];        
     }
 }
