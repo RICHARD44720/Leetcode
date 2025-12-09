@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/RICHARD44720/Leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/RICHARD44720/Leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/RICHARD44720/Leetcode/tree/master/0016-3sum-closest) |
+| [0048-rotate-image](https://github.com/RICHARD44720/Leetcode/tree/master/0048-rotate-image) |
 | [0063-unique-paths-ii](https://github.com/RICHARD44720/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0066-plus-one](https://github.com/RICHARD44720/Leetcode/tree/master/0066-plus-one) |
 | [0118-pascals-triangle](https://github.com/RICHARD44720/Leetcode/tree/master/0118-pascals-triangle) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/RICHARD44720/Leetcode/tree/master/0002-add-two-numbers) |
 | [0043-multiply-strings](https://github.com/RICHARD44720/Leetcode/tree/master/0043-multiply-strings) |
+| [0048-rotate-image](https://github.com/RICHARD44720/Leetcode/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/RICHARD44720/Leetcode/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/RICHARD44720/Leetcode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/RICHARD44720/Leetcode/tree/master/0069-sqrtx) |
@@ -194,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/RICHARD44720/Leetcode/tree/master/0048-rotate-image) |
 | [0063-unique-paths-ii](https://github.com/RICHARD44720/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0200-number-of-islands](https://github.com/RICHARD44720/Leetcode/tree/master/0200-number-of-islands) |
 ## Combinatorics
