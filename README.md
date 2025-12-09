@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0165-compare-version-numbers](https://github.com/RICHARD44720/Leetcode/tree/master/0165-compare-version-numbers) |
 | [0392-is-subsequence](https://github.com/RICHARD44720/Leetcode/tree/master/0392-is-subsequence) |
 | [0415-add-strings](https://github.com/RICHARD44720/Leetcode/tree/master/0415-add-strings) |
+| [1668-maximum-repeating-substring](https://github.com/RICHARD44720/Leetcode/tree/master/1668-maximum-repeating-substring) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/RICHARD44720/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Math
 |  |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/RICHARD44720/Leetcode/tree/master/0392-is-subsequence) |
 | [0518-coin-change-ii](https://github.com/RICHARD44720/Leetcode/tree/master/0518-coin-change-ii) |
 | [0746-min-cost-climbing-stairs](https://github.com/RICHARD44720/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
+| [1668-maximum-repeating-substring](https://github.com/RICHARD44720/Leetcode/tree/master/1668-maximum-repeating-substring) |
 ## Greedy
 |  |
 | ------- |
@@ -216,4 +218,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/RICHARD44720/Leetcode/tree/master/0258-add-digits) |
+## String Matching
+|  |
+| ------- |
+| [1668-maximum-repeating-substring](https://github.com/RICHARD44720/Leetcode/tree/master/1668-maximum-repeating-substring) |
 <!---LeetCode Topics End-->
