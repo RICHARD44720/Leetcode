@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/RICHARD44720/Leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/RICHARD44720/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0038-count-and-say](https://github.com/RICHARD44720/Leetcode/tree/master/0038-count-and-say) |
+| [0043-multiply-strings](https://github.com/RICHARD44720/Leetcode/tree/master/0043-multiply-strings) |
 | [0139-word-break](https://github.com/RICHARD44720/Leetcode/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/RICHARD44720/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/RICHARD44720/Leetcode/tree/master/0165-compare-version-numbers) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/RICHARD44720/Leetcode/tree/master/0002-add-two-numbers) |
+| [0043-multiply-strings](https://github.com/RICHARD44720/Leetcode/tree/master/0043-multiply-strings) |
 | [0062-unique-paths](https://github.com/RICHARD44720/Leetcode/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/RICHARD44720/Leetcode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/RICHARD44720/Leetcode/tree/master/0069-sqrtx) |
@@ -169,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/RICHARD44720/Leetcode/tree/master/0043-multiply-strings) |
 | [0258-add-digits](https://github.com/RICHARD44720/Leetcode/tree/master/0258-add-digits) |
 | [0415-add-strings](https://github.com/RICHARD44720/Leetcode/tree/master/0415-add-strings) |
 | [1642-water-bottles](https://github.com/RICHARD44720/Leetcode/tree/master/1642-water-bottles) |
