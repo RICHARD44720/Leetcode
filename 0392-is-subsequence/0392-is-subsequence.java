@@ -6,7 +6,7 @@ class Solution {
             if(s.charAt(n)==t.charAt(k)){
                 n++;
             }
-            k++;
+             k++;
         }
         return n==s.length();
     }
