@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/RICHARD44720/Leetcode/tree/master/0258-add-digits) |
 | [0415-add-strings](https://github.com/RICHARD44720/Leetcode/tree/master/0415-add-strings) |
 | [0877-stone-game](https://github.com/RICHARD44720/Leetcode/tree/master/0877-stone-game) |
+| [1323-maximum-69-number](https://github.com/RICHARD44720/Leetcode/tree/master/1323-maximum-69-number) |
 | [1642-water-bottles](https://github.com/RICHARD44720/Leetcode/tree/master/1642-water-bottles) |
 ## Binary Search
 |  |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/RICHARD44720/Leetcode/tree/master/0011-container-with-most-water) |
 | [0611-valid-triangle-number](https://github.com/RICHARD44720/Leetcode/tree/master/0611-valid-triangle-number) |
+| [1323-maximum-69-number](https://github.com/RICHARD44720/Leetcode/tree/master/1323-maximum-69-number) |
 ## Trie
 |  |
 | ------- |
