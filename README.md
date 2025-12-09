@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/RICHARD44720/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/RICHARD44720/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/RICHARD44720/Leetcode/tree/master/0217-contains-duplicate) |
+| [0349-intersection-of-two-arrays](https://github.com/RICHARD44720/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [2480-find-subarrays-with-equal-sum](https://github.com/RICHARD44720/Leetcode/tree/master/2480-find-subarrays-with-equal-sum) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/RICHARD44720/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Linked List
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/RICHARD44720/Leetcode/tree/master/0143-reorder-list) |
 | [0151-reverse-words-in-a-string](https://github.com/RICHARD44720/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/RICHARD44720/Leetcode/tree/master/0165-compare-version-numbers) |
+| [0349-intersection-of-two-arrays](https://github.com/RICHARD44720/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0611-valid-triangle-number](https://github.com/RICHARD44720/Leetcode/tree/master/0611-valid-triangle-number) |
 ## Array
 |  |
@@ -60,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/RICHARD44720/Leetcode/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/RICHARD44720/Leetcode/tree/master/0217-contains-duplicate) |
 | [0322-coin-change](https://github.com/RICHARD44720/Leetcode/tree/master/0322-coin-change) |
+| [0349-intersection-of-two-arrays](https://github.com/RICHARD44720/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0518-coin-change-ii](https://github.com/RICHARD44720/Leetcode/tree/master/0518-coin-change-ii) |
 | [0611-valid-triangle-number](https://github.com/RICHARD44720/Leetcode/tree/master/0611-valid-triangle-number) |
 | [2480-find-subarrays-with-equal-sum](https://github.com/RICHARD44720/Leetcode/tree/master/2480-find-subarrays-with-equal-sum) |
@@ -74,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/RICHARD44720/Leetcode/tree/master/0016-3sum-closest) |
 | [0169-majority-element](https://github.com/RICHARD44720/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/RICHARD44720/Leetcode/tree/master/0217-contains-duplicate) |
+| [0349-intersection-of-two-arrays](https://github.com/RICHARD44720/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0611-valid-triangle-number](https://github.com/RICHARD44720/Leetcode/tree/master/0611-valid-triangle-number) |
 ## Counting
 |  |
@@ -137,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0069-sqrtx](https://github.com/RICHARD44720/Leetcode/tree/master/0069-sqrtx) |
 | [0162-find-peak-element](https://github.com/RICHARD44720/Leetcode/tree/master/0162-find-peak-element) |
+| [0349-intersection-of-two-arrays](https://github.com/RICHARD44720/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0611-valid-triangle-number](https://github.com/RICHARD44720/Leetcode/tree/master/0611-valid-triangle-number) |
 ## Breadth-First Search
 |  |
