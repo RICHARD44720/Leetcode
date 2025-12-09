@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/RICHARD44720/Leetcode/tree/master/0518-coin-change-ii) |
 | [0611-valid-triangle-number](https://github.com/RICHARD44720/Leetcode/tree/master/0611-valid-triangle-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/RICHARD44720/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
+| [0877-stone-game](https://github.com/RICHARD44720/Leetcode/tree/master/0877-stone-game) |
 | [2480-find-subarrays-with-equal-sum](https://github.com/RICHARD44720/Leetcode/tree/master/2480-find-subarrays-with-equal-sum) |
 ## Divide and Conquer
 |  |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/RICHARD44720/Leetcode/tree/master/0069-sqrtx) |
 | [0258-add-digits](https://github.com/RICHARD44720/Leetcode/tree/master/0258-add-digits) |
 | [0415-add-strings](https://github.com/RICHARD44720/Leetcode/tree/master/0415-add-strings) |
+| [0877-stone-game](https://github.com/RICHARD44720/Leetcode/tree/master/0877-stone-game) |
 | [1642-water-bottles](https://github.com/RICHARD44720/Leetcode/tree/master/1642-water-bottles) |
 ## Binary Search
 |  |
@@ -169,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/RICHARD44720/Leetcode/tree/master/0392-is-subsequence) |
 | [0518-coin-change-ii](https://github.com/RICHARD44720/Leetcode/tree/master/0518-coin-change-ii) |
 | [0746-min-cost-climbing-stairs](https://github.com/RICHARD44720/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
+| [0877-stone-game](https://github.com/RICHARD44720/Leetcode/tree/master/0877-stone-game) |
 | [1668-maximum-repeating-substring](https://github.com/RICHARD44720/Leetcode/tree/master/1668-maximum-repeating-substring) |
 ## Greedy
 |  |
@@ -222,4 +225,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1668-maximum-repeating-substring](https://github.com/RICHARD44720/Leetcode/tree/master/1668-maximum-repeating-substring) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/RICHARD44720/Leetcode/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
