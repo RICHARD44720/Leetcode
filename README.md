@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/RICHARD44720/Leetcode/tree/master/0877-stone-game) |
 | [1323-maximum-69-number](https://github.com/RICHARD44720/Leetcode/tree/master/1323-maximum-69-number) |
 | [1642-water-bottles](https://github.com/RICHARD44720/Leetcode/tree/master/1642-water-bottles) |
+| [2652-sum-multiples](https://github.com/RICHARD44720/Leetcode/tree/master/2652-sum-multiples) |
 ## Binary Search
 |  |
 | ------- |
