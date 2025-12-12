@@ -23,6 +23,6 @@ class Solution {
             }
         }
         
-        return dp[n][amount] > amount ? -1 : dp[n][amount];
+        return dp[n][amount] > amount ? -1 :dp[n][amount];
     }
 }
