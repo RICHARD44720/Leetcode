@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/RICHARD44720/Leetcode/tree/master/0611-valid-triangle-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/RICHARD44720/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/RICHARD44720/Leetcode/tree/master/0877-stone-game) |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/RICHARD44720/Leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1672-richest-customer-wealth](https://github.com/RICHARD44720/Leetcode/tree/master/1672-richest-customer-wealth) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/RICHARD44720/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2480-find-subarrays-with-equal-sum](https://github.com/RICHARD44720/Leetcode/tree/master/2480-find-subarrays-with-equal-sum) |
