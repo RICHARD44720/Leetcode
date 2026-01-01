@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/RICHARD44720/Leetcode/tree/master/0611-valid-triangle-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/RICHARD44720/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/RICHARD44720/Leetcode/tree/master/0877-stone-game) |
+| [0944-delete-columns-to-make-sorted](https://github.com/RICHARD44720/Leetcode/tree/master/0944-delete-columns-to-make-sorted) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/RICHARD44720/Leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1672-richest-customer-wealth](https://github.com/RICHARD44720/Leetcode/tree/master/1672-richest-customer-wealth) |
 | [1720-decode-xored-array](https://github.com/RICHARD44720/Leetcode/tree/master/1720-decode-xored-array) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/RICHARD44720/Leetcode/tree/master/0415-add-strings) |
 | [0434-number-of-segments-in-a-string](https://github.com/RICHARD44720/Leetcode/tree/master/0434-number-of-segments-in-a-string) |
 | [0709-to-lower-case](https://github.com/RICHARD44720/Leetcode/tree/master/0709-to-lower-case) |
+| [0944-delete-columns-to-make-sorted](https://github.com/RICHARD44720/Leetcode/tree/master/0944-delete-columns-to-make-sorted) |
 | [1108-defanging-an-ip-address](https://github.com/RICHARD44720/Leetcode/tree/master/1108-defanging-an-ip-address) |
 | [1668-maximum-repeating-substring](https://github.com/RICHARD44720/Leetcode/tree/master/1668-maximum-repeating-substring) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/RICHARD44720/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
