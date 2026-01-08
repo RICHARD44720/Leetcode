@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/RICHARD44720/Leetcode/tree/master/0143-reorder-list) |
 | [0203-remove-linked-list-elements](https://github.com/RICHARD44720/Leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0231-power-of-two](https://github.com/RICHARD44720/Leetcode/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/RICHARD44720/Leetcode/tree/master/0326-power-of-three) |
 ## Stack
 |  |
 | ------- |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/RICHARD44720/Leetcode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/RICHARD44720/Leetcode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/RICHARD44720/Leetcode/tree/master/0258-add-digits) |
+| [0326-power-of-three](https://github.com/RICHARD44720/Leetcode/tree/master/0326-power-of-three) |
 | [0412-fizz-buzz](https://github.com/RICHARD44720/Leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/RICHARD44720/Leetcode/tree/master/0415-add-strings) |
 | [0877-stone-game](https://github.com/RICHARD44720/Leetcode/tree/master/0877-stone-game) |
