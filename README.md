@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/RICHARD44720/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1672-richest-customer-wealth](https://github.com/RICHARD44720/Leetcode/tree/master/1672-richest-customer-wealth) |
 | [1720-decode-xored-array](https://github.com/RICHARD44720/Leetcode/tree/master/1720-decode-xored-array) |
+| [1920-build-array-from-permutation](https://github.com/RICHARD44720/Leetcode/tree/master/1920-build-array-from-permutation) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/RICHARD44720/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2480-find-subarrays-with-equal-sum](https://github.com/RICHARD44720/Leetcode/tree/master/2480-find-subarrays-with-equal-sum) |
 ## Divide and Conquer
@@ -247,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/RICHARD44720/Leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/RICHARD44720/Leetcode/tree/master/0415-add-strings) |
 | [1642-water-bottles](https://github.com/RICHARD44720/Leetcode/tree/master/1642-water-bottles) |
+| [1920-build-array-from-permutation](https://github.com/RICHARD44720/Leetcode/tree/master/1920-build-array-from-permutation) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/RICHARD44720/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Bit Manipulation
 |  |
