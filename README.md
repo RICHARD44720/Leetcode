@@ -182,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/RICHARD44720/Leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/RICHARD44720/Leetcode/tree/master/0415-add-strings) |
 | [0877-stone-game](https://github.com/RICHARD44720/Leetcode/tree/master/0877-stone-game) |
+| [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/RICHARD44720/Leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1323-maximum-69-number](https://github.com/RICHARD44720/Leetcode/tree/master/1323-maximum-69-number) |
 | [1390-four-divisors](https://github.com/RICHARD44720/Leetcode/tree/master/1390-four-divisors) |
 | [1512-number-of-good-pairs](https://github.com/RICHARD44720/Leetcode/tree/master/1512-number-of-good-pairs) |
