@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/RICHARD44720/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0143-reorder-list](https://github.com/RICHARD44720/Leetcode/tree/master/0143-reorder-list) |
 | [0203-remove-linked-list-elements](https://github.com/RICHARD44720/Leetcode/tree/master/0203-remove-linked-list-elements) |
+| [0231-power-of-two](https://github.com/RICHARD44720/Leetcode/tree/master/0231-power-of-two) |
 ## Stack
 |  |
 | ------- |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/RICHARD44720/Leetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/RICHARD44720/Leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/RICHARD44720/Leetcode/tree/master/0202-happy-number) |
+| [0231-power-of-two](https://github.com/RICHARD44720/Leetcode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/RICHARD44720/Leetcode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/RICHARD44720/Leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/RICHARD44720/Leetcode/tree/master/0415-add-strings) |
@@ -247,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0137-single-number-ii](https://github.com/RICHARD44720/Leetcode/tree/master/0137-single-number-ii) |
+| [0231-power-of-two](https://github.com/RICHARD44720/Leetcode/tree/master/0231-power-of-two) |
 | [0338-counting-bits](https://github.com/RICHARD44720/Leetcode/tree/master/0338-counting-bits) |
 | [1720-decode-xored-array](https://github.com/RICHARD44720/Leetcode/tree/master/1720-decode-xored-array) |
 ## Union Find
