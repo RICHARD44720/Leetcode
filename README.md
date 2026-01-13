@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/RICHARD44720/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/RICHARD44720/Leetcode/tree/master/0877-stone-game) |
 | [0944-delete-columns-to-make-sorted](https://github.com/RICHARD44720/Leetcode/tree/master/0944-delete-columns-to-make-sorted) |
+| [1266-minimum-time-visiting-all-points](https://github.com/RICHARD44720/Leetcode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1390-four-divisors](https://github.com/RICHARD44720/Leetcode/tree/master/1390-four-divisors) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/RICHARD44720/Leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/RICHARD44720/Leetcode/tree/master/1470-shuffle-the-array) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/RICHARD44720/Leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/RICHARD44720/Leetcode/tree/master/0415-add-strings) |
 | [0877-stone-game](https://github.com/RICHARD44720/Leetcode/tree/master/0877-stone-game) |
+| [1266-minimum-time-visiting-all-points](https://github.com/RICHARD44720/Leetcode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/RICHARD44720/Leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1323-maximum-69-number](https://github.com/RICHARD44720/Leetcode/tree/master/1323-maximum-69-number) |
 | [1390-four-divisors](https://github.com/RICHARD44720/Leetcode/tree/master/1390-four-divisors) |
@@ -292,4 +294,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/RICHARD44720/Leetcode/tree/master/0877-stone-game) |
+## Geometry
+|  |
+| ------- |
+| [1266-minimum-time-visiting-all-points](https://github.com/RICHARD44720/Leetcode/tree/master/1266-minimum-time-visiting-all-points) |
 <!---LeetCode Topics End-->
