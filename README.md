@@ -301,4 +301,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1266-minimum-time-visiting-all-points](https://github.com/RICHARD44720/Leetcode/tree/master/1266-minimum-time-visiting-all-points) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/RICHARD44720/Leetcode/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
