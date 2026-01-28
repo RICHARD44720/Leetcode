@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/RICHARD44720/Leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/RICHARD44720/Leetcode/tree/master/1470-shuffle-the-array) |
 | [1512-number-of-good-pairs](https://github.com/RICHARD44720/Leetcode/tree/master/1512-number-of-good-pairs) |
+| [1528-shuffle-string](https://github.com/RICHARD44720/Leetcode/tree/master/1528-shuffle-string) |
 | [1672-richest-customer-wealth](https://github.com/RICHARD44720/Leetcode/tree/master/1672-richest-customer-wealth) |
 | [1720-decode-xored-array](https://github.com/RICHARD44720/Leetcode/tree/master/1720-decode-xored-array) |
 | [1920-build-array-from-permutation](https://github.com/RICHARD44720/Leetcode/tree/master/1920-build-array-from-permutation) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0944-delete-columns-to-make-sorted](https://github.com/RICHARD44720/Leetcode/tree/master/0944-delete-columns-to-make-sorted) |
 | [1108-defanging-an-ip-address](https://github.com/RICHARD44720/Leetcode/tree/master/1108-defanging-an-ip-address) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/RICHARD44720/Leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
+| [1528-shuffle-string](https://github.com/RICHARD44720/Leetcode/tree/master/1528-shuffle-string) |
 | [1668-maximum-repeating-substring](https://github.com/RICHARD44720/Leetcode/tree/master/1668-maximum-repeating-substring) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/RICHARD44720/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/RICHARD44720/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
