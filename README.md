@@ -204,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/RICHARD44720/Leetcode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/RICHARD44720/Leetcode/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/RICHARD44720/Leetcode/tree/master/0326-power-of-three) |
+| [0367-valid-perfect-square](https://github.com/RICHARD44720/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/RICHARD44720/Leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/RICHARD44720/Leetcode/tree/master/0415-add-strings) |
 | [0877-stone-game](https://github.com/RICHARD44720/Leetcode/tree/master/0877-stone-game) |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/RICHARD44720/Leetcode/tree/master/0069-sqrtx) |
 | [0162-find-peak-element](https://github.com/RICHARD44720/Leetcode/tree/master/0162-find-peak-element) |
 | [0349-intersection-of-two-arrays](https://github.com/RICHARD44720/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0367-valid-perfect-square](https://github.com/RICHARD44720/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0611-valid-triangle-number](https://github.com/RICHARD44720/Leetcode/tree/master/0611-valid-triangle-number) |
 ## Breadth-First Search
 |  |
