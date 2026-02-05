@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1920-build-array-from-permutation](https://github.com/RICHARD44720/Leetcode/tree/master/1920-build-array-from-permutation) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/RICHARD44720/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2480-find-subarrays-with-equal-sum](https://github.com/RICHARD44720/Leetcode/tree/master/2480-find-subarrays-with-equal-sum) |
+| [3379-transformed-array](https://github.com/RICHARD44720/Leetcode/tree/master/3379-transformed-array) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -281,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1642-water-bottles](https://github.com/RICHARD44720/Leetcode/tree/master/1642-water-bottles) |
 | [1920-build-array-from-permutation](https://github.com/RICHARD44720/Leetcode/tree/master/1920-build-array-from-permutation) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/RICHARD44720/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [3379-transformed-array](https://github.com/RICHARD44720/Leetcode/tree/master/3379-transformed-array) |
 ## Bit Manipulation
 |  |
 | ------- |
