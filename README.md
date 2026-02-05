@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/RICHARD44720/Leetcode/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/RICHARD44720/Leetcode/tree/master/0143-reorder-list) |
 ## Tree
 |  |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0006-zigzag-conversion](https://github.com/RICHARD44720/Leetcode/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/RICHARD44720/Leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/RICHARD44720/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0020-valid-parentheses](https://github.com/RICHARD44720/Leetcode/tree/master/0020-valid-parentheses) |
 | [0038-count-and-say](https://github.com/RICHARD44720/Leetcode/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/RICHARD44720/Leetcode/tree/master/0043-multiply-strings) |
 | [0125-valid-palindrome](https://github.com/RICHARD44720/Leetcode/tree/master/0125-valid-palindrome) |
