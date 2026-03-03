@@ -3,6 +3,8 @@ class Solution {
         int cur=0;
         int sum=nums[0];
         for(int n:nums){
-            cur=Math.max(n,n+cur);
+            cur+=n;
             sum=Math.max(sum,cur);
-            }return sum; }}
+            if(cur<0){
+                cur=0;
+            }}return sum;}}
