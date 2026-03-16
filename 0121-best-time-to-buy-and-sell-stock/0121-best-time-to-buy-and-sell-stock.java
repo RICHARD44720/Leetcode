@@ -6,10 +6,7 @@ class Solution {
             if(prices[i]<a){
                 a=prices[i];
             }
-            else if(prices[i]-a>profit){
-                    profit=prices[i]-a;
-                
-            }
+            profit=Math.max(profit,prices[i]-a);
         }return profit;
     }
 }
