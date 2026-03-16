@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/RICHARD44720/Leetcode/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/RICHARD44720/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/RICHARD44720/Leetcode/tree/master/0392-is-subsequence) |
+| [0455-assign-cookies](https://github.com/RICHARD44720/Leetcode/tree/master/0455-assign-cookies) |
 | [0611-valid-triangle-number](https://github.com/RICHARD44720/Leetcode/tree/master/0611-valid-triangle-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/RICHARD44720/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## Array
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/RICHARD44720/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0322-coin-change](https://github.com/RICHARD44720/Leetcode/tree/master/0322-coin-change) |
 | [0349-intersection-of-two-arrays](https://github.com/RICHARD44720/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0455-assign-cookies](https://github.com/RICHARD44720/Leetcode/tree/master/0455-assign-cookies) |
 | [0463-island-perimeter](https://github.com/RICHARD44720/Leetcode/tree/master/0463-island-perimeter) |
 | [0518-coin-change-ii](https://github.com/RICHARD44720/Leetcode/tree/master/0518-coin-change-ii) |
 | [0611-valid-triangle-number](https://github.com/RICHARD44720/Leetcode/tree/master/0611-valid-triangle-number) |
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/RICHARD44720/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/RICHARD44720/Leetcode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/RICHARD44720/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0455-assign-cookies](https://github.com/RICHARD44720/Leetcode/tree/master/0455-assign-cookies) |
 | [0611-valid-triangle-number](https://github.com/RICHARD44720/Leetcode/tree/master/0611-valid-triangle-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/RICHARD44720/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## Counting
@@ -282,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/RICHARD44720/Leetcode/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/RICHARD44720/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0455-assign-cookies](https://github.com/RICHARD44720/Leetcode/tree/master/0455-assign-cookies) |
 | [0611-valid-triangle-number](https://github.com/RICHARD44720/Leetcode/tree/master/0611-valid-triangle-number) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/RICHARD44720/Leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1323-maximum-69-number](https://github.com/RICHARD44720/Leetcode/tree/master/1323-maximum-69-number) |
