@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/RICHARD44720/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/RICHARD44720/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/RICHARD44720/Leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0135-candy](https://github.com/RICHARD44720/Leetcode/tree/master/0135-candy) |
 | [0137-single-number-ii](https://github.com/RICHARD44720/Leetcode/tree/master/0137-single-number-ii) |
 | [0139-word-break](https://github.com/RICHARD44720/Leetcode/tree/master/0139-word-break) |
 | [0162-find-peak-element](https://github.com/RICHARD44720/Leetcode/tree/master/0162-find-peak-element) |
@@ -288,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/RICHARD44720/Leetcode/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/RICHARD44720/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0135-candy](https://github.com/RICHARD44720/Leetcode/tree/master/0135-candy) |
 | [0455-assign-cookies](https://github.com/RICHARD44720/Leetcode/tree/master/0455-assign-cookies) |
 | [0611-valid-triangle-number](https://github.com/RICHARD44720/Leetcode/tree/master/0611-valid-triangle-number) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/RICHARD44720/Leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
