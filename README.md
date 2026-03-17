@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/RICHARD44720/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/RICHARD44720/Leetcode/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2480-find-subarrays-with-equal-sum](https://github.com/RICHARD44720/Leetcode/tree/master/2480-find-subarrays-with-equal-sum) |
+| [2587-rearrange-array-to-maximize-prefix-score](https://github.com/RICHARD44720/Leetcode/tree/master/2587-rearrange-array-to-maximize-prefix-score) |
 | [3379-transformed-array](https://github.com/RICHARD44720/Leetcode/tree/master/3379-transformed-array) |
 ## Divide and Conquer
 |  |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/RICHARD44720/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1029-two-city-scheduling](https://github.com/RICHARD44720/Leetcode/tree/master/1029-two-city-scheduling) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/RICHARD44720/Leetcode/tree/master/2410-maximum-matching-of-players-with-trainers) |
+| [2587-rearrange-array-to-maximize-prefix-score](https://github.com/RICHARD44720/Leetcode/tree/master/2587-rearrange-array-to-maximize-prefix-score) |
 ## Counting
 |  |
 | ------- |
@@ -298,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1221-split-a-string-in-balanced-strings](https://github.com/RICHARD44720/Leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1323-maximum-69-number](https://github.com/RICHARD44720/Leetcode/tree/master/1323-maximum-69-number) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/RICHARD44720/Leetcode/tree/master/2410-maximum-matching-of-players-with-trainers) |
+| [2587-rearrange-array-to-maximize-prefix-score](https://github.com/RICHARD44720/Leetcode/tree/master/2587-rearrange-array-to-maximize-prefix-score) |
 ## Trie
 |  |
 | ------- |
@@ -381,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/RICHARD44720/Leetcode/tree/master/0238-product-of-array-except-self) |
+| [2587-rearrange-array-to-maximize-prefix-score](https://github.com/RICHARD44720/Leetcode/tree/master/2587-rearrange-array-to-maximize-prefix-score) |
 ## Monotonic Stack
 |  |
 | ------- |
