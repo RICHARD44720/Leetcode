@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/RICHARD44720/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0322-coin-change](https://github.com/RICHARD44720/Leetcode/tree/master/0322-coin-change) |
 | [0349-intersection-of-two-arrays](https://github.com/RICHARD44720/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0406-queue-reconstruction-by-height](https://github.com/RICHARD44720/Leetcode/tree/master/0406-queue-reconstruction-by-height) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/RICHARD44720/Leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/RICHARD44720/Leetcode/tree/master/0455-assign-cookies) |
 | [0463-island-perimeter](https://github.com/RICHARD44720/Leetcode/tree/master/0463-island-perimeter) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/RICHARD44720/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/RICHARD44720/Leetcode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/RICHARD44720/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0406-queue-reconstruction-by-height](https://github.com/RICHARD44720/Leetcode/tree/master/0406-queue-reconstruction-by-height) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/RICHARD44720/Leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/RICHARD44720/Leetcode/tree/master/0455-assign-cookies) |
 | [0611-valid-triangle-number](https://github.com/RICHARD44720/Leetcode/tree/master/0611-valid-triangle-number) |
@@ -392,4 +394,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/RICHARD44720/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0406-queue-reconstruction-by-height](https://github.com/RICHARD44720/Leetcode/tree/master/0406-queue-reconstruction-by-height) |
+## Segment Tree
+|  |
+| ------- |
+| [0406-queue-reconstruction-by-height](https://github.com/RICHARD44720/Leetcode/tree/master/0406-queue-reconstruction-by-height) |
 <!---LeetCode Topics End-->
