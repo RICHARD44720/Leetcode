@@ -8,10 +8,7 @@ class Solution {
         for(int[] p:people){
             list.add(p[1],p);
         }
-        int queue[][]=new int[people.length][people[0].length];
-        for(int i=0;i<list.size();i++){
-            queue[i]=list.get(i);
-        }
-        return queue;
+        
+        return list.toArray(new int[people.length][]);
     }
 }
